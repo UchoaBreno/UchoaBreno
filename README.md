@@ -11,7 +11,6 @@ Olá, pessoas ! 👋
 - 🤔 Preciso de ajuda com vagas de estágio/emprego
 - 📫 Chegue em mim pelo: <a href="https://www.linkedin.com/in/breno-uch%C3%B4a-5ba8a8214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 - 😄 Pronomes: Ele/Dele
-- ⚡ Fato divertido: Já pensei em desistir da programação várias vezes, mas hoje não vivo sem ela 😁
 </div>
 
 <br/>
