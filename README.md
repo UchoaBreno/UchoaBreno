@@ -1,9 +1,4 @@
 <div align="center">
-       <img align="center" alt="Vscode"  width="40%" height="25%" src="https://media1.tenor.com/m/jWNiebH7XDQAAAAC/mushoku-tensei-rudeus.gi"
-</div>
-       <br/> <br/>
-       
-<div align="center">
 Olá, pessoas ! 👋
 
 - 🔭 Atualmente trabalho com desenvolvimento web
