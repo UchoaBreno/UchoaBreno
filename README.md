@@ -1,11 +1,9 @@
 <div align="center">
 Olá, pessoas ! 👋
 
-- 🔭 Atualmente trabalho com desenvolvimento web
-- 🌱 Estou estudando sobre front-end e suas funcionalidades
-- 🤔 Preciso de ajuda com vagas de estágio/emprego
+- 🔭 Atualmente estudo desenvolvimento web
+- 🤔 Em busca do primeiro emprego
 - 📫 Chegue em mim pelo: <a href="https://www.linkedin.com/in/breno-uch%C3%B4a-5ba8a8214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-- 😄 Pronomes: Ele/Dele
 </div>
 
 <br/>
