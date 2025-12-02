@@ -44,7 +44,6 @@ Olá, pessoas ! 👋
 <br/>
 
 <div align="center">
-<br><p align="centre"><b>Contagem de visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{UchoaBreno}/count.svg" /></p> 
 <br>
 </div>
