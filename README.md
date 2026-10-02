@@ -1,8 +1,8 @@
 <div align="center">
 Olá, pessoas ! 👋
 
-- 🔭 Atualmente estudo desenvolvimento web
-- 🤔 Em busca do primeiro emprego
+- 🔭 Atualmente desenvolvedor web júnior
+- 🤔 Se você não dá oportunidade, como vou ter experiência ?
 - 📫 Chegue em mim pelo: <a href="https://www.linkedin.com/in/breno-uch%C3%B4a-5ba8a8214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
